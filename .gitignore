@@ -4,6 +4,7 @@
 /assets/photoshop
 /assets/videos
 !/assets/videos/tour_*.mp4
+tempfile.txt2
 *.txt
 *.zip
 *.rar
