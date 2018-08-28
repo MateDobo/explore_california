@@ -1,1 +1,12 @@
 /nbproject/private/
+/log/*.log
+/log/*.log.[0-9]
+/assets/photoshop
+/assets/videos
+!/assets/videos/tour_*.mp4
+*.txt
+*.DS_Store
+*.zip
+*.rar
+*.gz
+*.tar
