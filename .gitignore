@@ -5,7 +5,6 @@
 /assets/videos
 !/assets/videos/tour_*.mp4
 *.txt
-*.DS_Store
 *.zip
 *.rar
 *.gz
